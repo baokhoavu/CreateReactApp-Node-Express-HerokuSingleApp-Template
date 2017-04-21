@@ -41,9 +41,10 @@ class App extends Component {
         </div>
         <p className="App-intro">
           {'This is '}
-          <a href="https://github.com/mars/heroku-cra-node">
-            {'a test for real TESTSETSETSET'}
-          </a><br/>
+          <a href="http://better.vote">
+            {'a new version of Better.vote Alpha'}
+          </a>
+          <br/>
         </p>
         <p className="App-intro">
           {this.state.fetching
