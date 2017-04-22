@@ -1,0 +1,1 @@
+Initially created for better.vote but forked at any early boilerplate stage for general use. Based off of https://github.com/mars/heroku-cra-node, but refactored to use top level folder instead of nested structure. Sets up heroku to work slightly differently and adds buildpack type info.
